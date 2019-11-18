@@ -1,0 +1,110 @@
+Array,Subject,Time,Batch,Group,MODS,Infection,ISS,Sex,Age,Ethnicity
+145_0h,S145,0h,B1,Control,,,1,Male,27,
+158_0h,S158,0h,B1,Moderate,,,13,Male,28,
+160_0h,S160,0h,B1,Critical,No,No,27,Male,27,Caucasian
+227_0h,S227,0h,B1,Moderate,,,9,Male,39,
+244_0h,S244,0h,B1,Critical,Yes,Yes,25,Male,42,Caucasian
+259_0h,S259,0h,B1,Critical,Yes,No,25,Female,56,Eastern European
+303_0h,S303,0h,B1,Critical,No,Yes,27,Male,35,Asian
+314_0h,S314,0h,B1,Critical,Yes,Yes,38,Male,69,Caucasian
+318_0h,S318,0h,B1,Moderate,,,9,Male,31,
+333_0h,S333,0h,B1,Critical,Yes,Yes,41,Male,18,Caucasian
+347_0h,S347,0h,B1,Critical,No,Yes,45,Female,35,Caucasian
+409_0h,S409,0h,B1,Critical,No,No,29,Male,17,Caucasian
+411_0h,S411,0h,B1,Control,,,0,Male,46,
+429_0h,S429,0h,B1,Critical,Yes,Yes,34,Female,38,Eastern European
+443_0h,S443,0h,B1,Critical,Yes,Yes,29,Female,24,Eastern European
+754_0h,S754,0h,B1,Control,,,0,Male,46,
+145_24h,S145,24h,B1,Control,,,1,Male,27,
+160_24h,S160,24h,B1,Critical,No,No,27,Male,27,Caucasian
+172_24h,S172,24h,B1,Critical,Yes,Yes,39,Male,63,Caucasian
+185_24h,S185,24h,B1,Moderate,,,9,Male,23,
+218_24h,S218,24h,B1,Critical,No,No,27,Male,17,Caucasian
+226_24h,S226,24h,B1,Critical,No,No,34,Male,55,Caucasian
+227_24h,S227,24h,B1,Moderate,,,9,Male,39,
+244_24h,S244,24h,B1,Critical,Yes,Yes,25,Male,42,Caucasian
+247_24h,S247,24h,B1,Critical,No,Yes,25,Male,22,Caucasian
+251_24h,S251,24h,B1,Critical,Yes,No,50,Male,17,Caucasian
+257_24h,S257,24h,B1,Critical,Yes,Yes,38,Male,67,Caucasian
+303_24h,S303,24h,B1,Critical,No,Yes,27,Male,35,Asian
+314_24h,S314,24h,B1,Critical,Yes,Yes,38,Male,69,Caucasian
+327_24h,S327,24h,B1,Critical,Yes,Yes,38,Female,56,Caucasian
+354_24h,S354,24h,B1,Critical,Yes,Yes,25,Male,66,Caucasian
+411_24h,S411,24h,B1,Control,,,0,Male,46,
+514_24h,S514,24h,B1,Critical,No,Yes,51,Male,26,Eastern European
+545_24h,S545,24h,B1,Control,,,0,Male,62,
+754_24h,S754,24h,B1,Control,,,0,Male,46,
+97_72h,S97,72h,B1,Moderate,,,9,Male,37,
+145_72h,S145,72h,B1,Control,,,1,Male,27,
+156_72h,S156,72h,B1,Critical,No,No,26,Male,54,Caucasian
+226_72h,S226,72h,B1,Critical,No,No,34,Male,55,Caucasian
+242_72h,S242,72h,B1,Control,,,2,Female,33,
+247_72h,S247,72h,B1,Critical,No,Yes,25,Male,22,Caucasian
+257_72h,S257,72h,B1,Critical,Yes,Yes,38,Male,67,Caucasian
+259_72h,S259,72h,B1,Critical,Yes,No,25,Female,56,Eastern European
+328_72h,S328,72h,B1,Critical,No,Yes,29,Female,51,Caucasian
+418_72h,S418,72h,B1,Critical,No,No,29,Male,23,Asian
+443_72h,S443,72h,B1,Critical,Yes,Yes,29,Female,24,Eastern European
+514_72h,S514,72h,B1,Critical,No,Yes,51,Male,26,Eastern European
+545_72h,S545,72h,B1,Control,,,0,Male,62,
+754_72h,S754,72h,B1,Control,,,0,Male,46,
+97_0h,S97,0h,B2,Moderate,,,9,Male,37,
+124_0h,S124,0h,B2,Control,,,4,Male,22,
+156_0h,S156,0h,B2,Critical,No,No,26,Male,54,Caucasian
+178_0h,S178,0h,B2,Critical,No,No,33,Male,44,Caucasian
+183_0h,S183,0h,B2,Critical,Yes,Yes,38,Male,52,Caucasian
+185_0h,S185,0h,B2,Moderate,,,9,Male,23,
+218_0h,S218,0h,B2,Critical,No,No,27,Male,17,Caucasian
+242_0h,S242,0h,B2,Control,,,2,Female,33,
+247_0h,S247,0h,B2,Critical,No,Yes,25,Male,22,Caucasian
+251_0h,S251,0h,B2,Critical,Yes,No,50,Male,17,Caucasian
+257_0h,S257,0h,B2,Critical,Yes,Yes,38,Male,67,Caucasian
+327_0h,S327,0h,B2,Critical,Yes,Yes,38,Female,56,Caucasian
+328_0h,S328,0h,B2,Critical,No,Yes,29,Female,51,Caucasian
+349_0h,S349,0h,B2,Critical,No,Yes,33,Male,40,Caucasian
+354_0h,S354,0h,B2,Critical,Yes,Yes,25,Male,66,Caucasian
+387_0h,S387,0h,B2,Critical,No,No,27,Male,30,Black African
+418_0h,S418,0h,B2,Critical,No,No,29,Male,23,Asian
+427_0h,S427,0h,B2,Critical,No,Yes,25,Male,23,Black African
+514_0h,S514,0h,B2,Critical,No,Yes,51,Male,26,Eastern European
+748_0h,S748,0h,B2,Critical,No,Yes,34,Male,37,Caucasian
+97_24h,S97,24h,B2,Moderate,,,9,Male,37,
+124_24h,S124,24h,B2,Control,,,4,Male,22,
+156_24h,S156,24h,B2,Critical,No,No,26,Male,54,Caucasian
+158_24h,S158,24h,B2,Moderate,,,13,Male,28,
+178_24h,S178,24h,B2,Critical,No,No,33,Male,44,Caucasian
+183_24h,S183,24h,B2,Critical,Yes,Yes,38,Male,52,Caucasian
+242_24h,S242,24h,B2,Control,,,2,Female,33,
+259_24h,S259,24h,B2,Critical,Yes,No,25,Female,56,Eastern European
+318_24h,S318,24h,B2,Moderate,,,9,Male,31,
+333_24h,S333,24h,B2,Critical,Yes,Yes,41,Male,18,Caucasian
+347_24h,S347,24h,B2,Critical,No,Yes,45,Female,35,Caucasian
+349_24h,S349,24h,B2,Critical,No,Yes,33,Male,40,Caucasian
+387_24h,S387,24h,B2,Critical,No,No,27,Male,30,Black African
+409_24h,S409,24h,B2,Critical,No,No,29,Male,17,Caucasian
+418_24h,S418,24h,B2,Critical,No,No,29,Male,23,Asian
+427_24h,S427,24h,B2,Critical,No,Yes,25,Male,23,Black African
+429_24h,S429,24h,B2,Critical,Yes,Yes,34,Female,38,Eastern European
+443_24h,S443,24h,B2,Critical,Yes,Yes,29,Female,24,Eastern European
+124_72h,S124,72h,B2,Control,,,4,Male,22,
+158_72h,S158,72h,B2,Moderate,,,13,Male,28,
+160_72h,S160,72h,B2,Critical,No,No,27,Male,27,Caucasian
+172_72h,S172,72h,B2,Critical,Yes,Yes,39,Male,63,Caucasian
+178_72h,S178,72h,B2,Critical,No,No,33,Male,44,Caucasian
+185_72h,S185,72h,B2,Moderate,,,9,Male,23,
+227_72h,S227,72h,B2,Moderate,,,9,Male,39,
+244_72h,S244,72h,B2,Critical,Yes,Yes,25,Male,42,Caucasian
+251_72h,S251,72h,B2,Critical,Yes,No,50,Male,17,Caucasian
+303_72h,S303,72h,B2,Critical,No,Yes,27,Male,35,Asian
+314_72h,S314,72h,B2,Critical,Yes,Yes,38,Male,69,Caucasian
+318_72h,S318,72h,B2,Moderate,,,9,Male,31,
+327_72h,S327,72h,B2,Critical,Yes,Yes,38,Female,56,Caucasian
+333_72h,S333,72h,B2,Critical,Yes,Yes,41,Male,18,Caucasian
+347_72h,S347,72h,B2,Critical,No,Yes,45,Female,35,Caucasian
+349_72h,S349,72h,B2,Critical,No,Yes,33,Male,40,Caucasian
+354_72h,S354,72h,B2,Critical,Yes,Yes,25,Male,66,Caucasian
+409_72h,S409,72h,B2,Critical,No,No,29,Male,17,Caucasian
+411_72h,S411,72h,B2,Control,,,0,Male,46,
+427_72h,S427,72h,B2,Critical,No,Yes,25,Male,23,Black African
+429_72h,S429,72h,B2,Critical,Yes,Yes,34,Female,38,Eastern European
+748_72h,S748,72h,B2,Critical,No,Yes,34,Male,37,Caucasian
